@@ -1,0 +1,4 @@
+ref_seq	indel events	total events	percent
+BRC2	733	1081	67.8075855689
+RAD52	288	427	67.4473067916
+TTN	260	796	32.6633165829
