@@ -1,5 +1,3 @@
-Index profiling tutorial
-
 #########################
 
 Files needed (must be named as follows!):
