@@ -11,7 +11,7 @@ Files needed (must be named as follows!):
 
 Basic how-to:
 
-- Clone or fork the `indel_profiling` repo;
+- Clone or fork the `indel-caller` repo;
 - Open a terminal window / python shell;
 - Run `python mk_cigars.py`:
 	This command will generate a refseq_guide_cigars_S*.txt file. It contains hyphen-delimited entries (seqname-cigar).
